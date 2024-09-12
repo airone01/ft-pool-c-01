@@ -26,4 +26,4 @@ int	ft_strlen(char *str)
 // {
 // 	printf("%d\n", ft_strlen("hi"));
 // 	printf("%d\n", ft_strlen("Hello, world!"));
-}
+// }
